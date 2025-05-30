@@ -21505,7 +21505,7 @@ entities:
       powerLoad: 5
     - type: Battery
       startingCharge: 0
-- proto: ComputerPalletConsoleNFNormalMarket
+- proto: ComputerPalletConsoleNFLowMarket
   entities:
   - uid: 3619
     components:
@@ -21517,7 +21517,8 @@ entities:
       powerLoad: 5
     - type: Battery
       startingCharge: 0
-- proto: ComputerPalletConsoleNFVeryHighMarket
+- proto: ComputerPalletConsoleNFLowMarket
+
   entities:
   - uid: 3620
     components:
